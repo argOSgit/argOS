@@ -6,7 +6,7 @@ Historial de versiones de **argOS**, el sistema operativo especializado en ciber
 
 ## [1.0.0] - 2025-05-17
 
-### 🧠 Características iniciales
+###  Características iniciales
 
 - Base Debian 12 minimal
 - Scripts automatizados para OSINT con CUIL, IP, DNS y redes sociales
