@@ -4,7 +4,7 @@ Este repositorio contiene el versionado oficial de **argOS**, un sistema operati
 
 ---
 
-## 🔎 En este repositorio
+##  En este repositorio
 
 - Historial de versiones y mejoras
 - Changelogs detallados por versión
@@ -13,13 +13,13 @@ Este repositorio contiene el versionado oficial de **argOS**, un sistema operati
 
 ---
 
-## ✅ Última versión: `v1.0.0`
+##  Última versión: `v1.0.0`
 
 > Ver changelog en [`CHANGELOG.md`](./CHANGELOG.md)
 
 ---
 
-## 📥 Descargas
+##  Descargas
 
 | Versión | Fecha        | Archivo ISO         |
 |---------|--------------|---------------------|
@@ -27,7 +27,7 @@ Este repositorio contiene el versionado oficial de **argOS**, un sistema operati
 
 ---
 
-## 📁 Estructura
+##  Estructura
 
 - `/changelog/`: Detalles por versión
 - `/releases/`: Archivos ISO
