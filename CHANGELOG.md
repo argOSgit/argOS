@@ -12,6 +12,5 @@ Historial de versiones de **argOS**, el sistema operativo especializado en ciber
 - Scripts automatizados para OSINT con CUIL, IP, DNS y redes sociales
 - Entorno preconfigurado con herramientas de ciberinteligencia
 - Módulo Dataing: recolección por CUIL/DNI/Nombre
-- Compatibilidad con Flipper Zero y terminales UART para extracción de metadatos
 
 > Ver detalles completos en [`changelog/1.0.md`](./changelog/1.0.md)
