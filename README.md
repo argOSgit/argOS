@@ -23,7 +23,7 @@ Este repositorio contiene el versionado oficial de **argOS**, un sistema operati
 
 | Versión | Fecha        | Archivo ISO         |
 |---------|--------------|---------------------|
-| 1.0.0   | 2025-05-17   | [`argos-1.0.iso`](./releases/argos-1.0.iso) |
+| 1.0.0   | 2025-07-09   | [`argos-1.0.iso`](./releases/argos-1.0.iso) |
 
 ---
 
